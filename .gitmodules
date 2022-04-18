@@ -1,3 +1,6 @@
 [submodule "wpf"]
 	path = wpf
 	url = https://github.com/MarvelFyy/WPF-GMS.git
+[submodule "notepad"]
+	path = notepad
+	url = https://github.com/MarvelFyy/Notepad.git
