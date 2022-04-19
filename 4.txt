@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The 4 th txt file
+=======
+4
+>>>>>>> 064cb99ec73d0bd36e5fe57f7c8ed2d4586e5c06
